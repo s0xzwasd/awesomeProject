@@ -10,4 +10,5 @@ func main() {
 	flag.Parse()
 	print(*str)
 	fmt.Println("Hello, World!")
+	fmt.Println("Add one more")
 }
